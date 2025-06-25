@@ -1,0 +1,129 @@
+
+[
+  {
+    "id": "1",
+    "title": "Team Standup",
+    "date": "2024-06-24",
+    "startTime": "09:00",
+    "endTime": "09:30",
+    "type": "meeting",
+    "description": "Daily team standup meeting"
+  },
+  {
+    "id": "2",
+    "title": "Product Review",
+    "date": "2024-06-24",
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "type": "meeting",
+    "description": "Quarterly product review with stakeholders"
+  },
+  {
+    "id": "3",
+    "title": "Gym Workout",
+    "date": "2024-06-25",
+    "startTime": "07:00",
+    "endTime": "08:00",
+    "type": "personal",
+    "description": "Morning workout session"
+  },
+  {
+    "id": "4",
+    "title": "Client Call",
+    "date": "2024-06-25",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "type": "work",
+    "description": "Weekly check-in with client"
+  },
+  {
+    "id": "5",
+    "title": "Lunch with Sarah",
+    "date": "2024-06-25",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "type": "personal",
+    "description": "Lunch meeting with Sarah"
+  },
+  {
+    "id": "6",
+    "title": "Project Deadline",
+    "date": "2024-06-26",
+    "startTime": "09:00",
+    "endTime": "17:00",
+    "type": "work",
+    "description": "Final day for project submission"
+  },
+  {
+    "id": "7",
+    "title": "Doctor Appointment",
+    "date": "2024-06-27",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "type": "personal",
+    "description": "Annual health checkup"
+  },
+  {
+    "id": "8",
+    "title": "Team Meeting",
+    "date": "2024-06-28",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "type": "meeting",
+    "description": "Weekly team sync"
+  },
+  {
+    "id": "9",
+    "title": "Code Review",
+    "date": "2024-06-28",
+    "startTime": "10:30",
+    "endTime": "11:00",
+    "type": "work",
+    "description": "Review pull requests - CONFLICTS with Team Meeting!"
+  },
+  {
+    "id": "10",
+    "title": "Weekend Trip",
+    "date": "2024-06-29",
+    "startTime": "08:00",
+    "endTime": "20:00",
+    "type": "personal",
+    "description": "Day trip to the mountains"
+  },
+  {
+    "id": "11",
+    "title": "Pay Bills",
+    "date": "2024-06-30",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "type": "reminder",
+    "description": "Monthly bill payment reminder"
+  },
+  {
+    "id": "12",
+    "title": "Marketing Campaign",
+    "date": "2024-07-01",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "type": "schedule",
+    "description": "Launch new marketing campaign"
+  },
+  {
+    "id": "13",
+    "title": "Daily Standup",
+    "date": "2024-07-01",
+    "startTime": "00:00",
+    "endTime": "01:30",
+    "type": "meeting",
+    "description": "Daily standup meeting"
+  },
+  {
+    "id": "14",
+    "title": "Weekly catchup",
+    "date": "2024-07-01",
+    "startTime": "16:30",
+    "endTime": "19:30",
+    "type": "meeting",
+    "description": "Weekly team catchup"
+  }
+]
